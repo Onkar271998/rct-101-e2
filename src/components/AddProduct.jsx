@@ -29,6 +29,7 @@ const AddProduct = () => {
           <Input data-cy="add-product-price" />
           <Button data-cy="add-product-submit-button"></Button>
         </ModalBody>
+       
       </Modal>
     </>
   );

@@ -17,7 +17,10 @@ const Product = () => {
         <TagLabel data-cy="product-gender"></TagLabel>
       </Tag>
       <Heading data-cy="product-title"></Heading>
-      <Box data-cy="product-price"></Box>
+      <Box data-cy="product-price">
+
+      
+      </Box>
     </Stack>
   );
 };
